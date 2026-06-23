@@ -5,10 +5,8 @@
   "build": {
     "preview": {
       "android": {
-        "buildType": "apk",
-        "gradleCommand": ":app:assembleRelease"
-      },
-      "env": {}
+        "buildType": "apk"
+      }
     },
     "production": {
       "android": {
