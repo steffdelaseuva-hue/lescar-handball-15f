@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.lescarhandball.app"
     },
     "android": {
-      "package": "com.lescarhandball.app",
+      "package": "com.lescar.handball.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
