@@ -18,6 +18,9 @@
     },
     "android": {
       "package": "com.lescar.handball",
+      "compileSdkVersion": 34,
+"targetSdkVersion": 34,
+"buildToolsVersion": "34.0.0",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
