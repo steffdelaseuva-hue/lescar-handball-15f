@@ -14,14 +14,15 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.lescarhandball.app"
+      "bundleIdentifier": "com.lescar.handball"
     },
     "android": {
-      "package": "com.lescar.handball.app",
+      "package": "com.lescar.handball",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "edgeToEdgeEnabled": false
     },
     "web": {
       "favicon": "./assets/favicon.png"
